@@ -3,7 +3,7 @@ import { Logo } from "./Logo";
 import { NavItem } from "./NavItem";
 import { UsedSpaceWidget } from "./UsedSpaceWidget";
 import { Profile } from "./Profile";
-import * as Input from "../input";
+import * as Input from "../Input";
 
 export function Sidebar() {
     return (
